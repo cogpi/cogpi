@@ -1,12 +1,12 @@
-# Kenbound
+# CogPi
 
 [English](#english) | [中文](#中文)
 
 ## English
 
-Kenbound checks that your AI assistant only shows each person what they are allowed to see.
+CogPi checks that your AI assistant only shows each person what they are allowed to see.
 
-When documents are loaded into a knowledge base or an AI agent, the permissions from the source system are often lost. Kenbound tests this from the outside: it asks questions as different test users, places synthetic decoy documents with unique markers, and reports who can see what they should not, with reproducible evidence.
+When documents are loaded into a knowledge base or an AI agent, the permissions from the source system are often lost. CogPi tests this from the outside: it asks questions as different test users, places synthetic decoy documents with unique markers, and reports who can see what they should not, with reproducible evidence.
 
 > Status: early development. The first open-source release of the command-line client is planned for Q4 2026.
 
@@ -20,14 +20,14 @@ When documents are loaded into a knowledge base or an AI agent, the permissions 
 
 ### Contact
 
-- Website: https://kenbound.com
-- Support: support@kenbound.com
+- Website: https://cogpi.com
+- Support: support@cogpi.com
 
 ## 中文
 
-Kenbound 帮企业检查并管住公司的 AI 助手，只让每个人看到自己该看的资料。
+CogPi 帮企业检查并管住公司的 AI 助手，只让每个人看到自己该看的资料。
 
-文档接入知识库或智能体之后，源系统里的权限常常没有跟过去。Kenbound 从外部检测这个问题：用不同身份的测试账号提问，在知识库里放入带唯一标记的合成诱饵文档，找出“谁看到了不该看的内容”，并给出可以复现的证据。
+文档接入知识库或智能体之后，源系统里的权限常常没有跟过去。CogPi 从外部检测这个问题：用不同身份的测试账号提问，在知识库里放入带唯一标记的合成诱饵文档，找出“谁看到了不该看的内容”，并给出可以复现的证据。
 
 > 当前状态：早期开发中。命令行客户端的首个开源版本计划于 2026 年第四季度发布。
 
@@ -41,8 +41,8 @@ Kenbound 帮企业检查并管住公司的 AI 助手，只让每个人看到自�
 
 ### 联系方式
 
-- 官网：https://kenbound.com
-- 支持：support@kenbound.com
+- 官网：https://cogpi.com
+- 支持：support@cogpi.com
 
 ## Maintainer / 维护者
 
@@ -50,11 +50,11 @@ Kenbound 帮企业检查并管住公司的 AI 助手，只让每个人看到自�
 
 Engineer. Algorithm developer. Architect. Now CTO of a publicly listed company. MBA, Golden Gate University.
 I have built systems at every layer — from the first line of code to the technology strategy of a public company.
-With Kenbound, I focus on one thing: making it safe for enterprises to trust AI with their core data, so every person and every agent sees only what they should.
+With CogPi, I focus on one thing: making it safe for enterprises to trust AI with their core data, so every person and every agent sees only what they should.
 
 写过代码，做过算法，当过架构师，如今是上市公司 CTO；美国金门大学 MBA。
 从一行代码到一家上市公司的技术全局，每一层都亲手做过。
-通过 Kenbound，只专注一件事：让企业敢把核心数据交给 AI——每个人、每个智能体，都只看到自己该看的。
+通过 CogPi，只专注一件事：让企业敢把核心数据交给 AI——每个人、每个智能体，都只看到自己该看的。
 
 ## License / 许可证
 
